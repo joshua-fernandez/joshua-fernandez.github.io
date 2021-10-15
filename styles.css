@@ -3,7 +3,19 @@ body {
     font-family:Verdana, Geneva, Tahoma, sans-serif
 }
 
+.assignment {
+    display:flex;
+    padding: 20px;
+    margin: 20px;
+    background:whitesmoke;
+}
+
+.assignment img{
+    width: 500px;
+    padding: 20px;
+}
+
 h1 {
-color: darkolivegreen;
+color: darkslateblue;
 text-align:center;
 }
